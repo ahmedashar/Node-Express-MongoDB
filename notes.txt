@@ -1,0 +1,16 @@
+create server through Expressjs
+connect to mongoDB through Mongoose
+create post api
+CRUD operations with mongoDB
+
+
+Check and implement all mongoose queries
+populates
+JWT tokkens
+multer --> for img upload
+
+----------------------------------------
+Node js is a runtime js environment that can be used to create a server through Expressjs.
+----------------------------------------
+// 01 Creating server using http
+// 02 Modules in Node js (build in modules)
